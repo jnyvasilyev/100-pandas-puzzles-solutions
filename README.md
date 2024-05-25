@@ -1,3 +1,5 @@
+My attempt at the 100 pandas puzzles. Current progress: 0/100
+
 # 100 pandas puzzles
 
 ### [Puzzles notebook](https://github.com/ajcr/100-pandas-puzzles/blob/master/100-pandas-puzzles.ipynb)
